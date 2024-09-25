@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Elias-Teles
-- 👀 I’m interested in  Desenvolvimento Web
-- 🌱 I’m curently learning  HTML  
-- 💞️ I’m looking to collaborate on  criação de sites
-- 📫 How to reach me    eliasteles2014@gmail.com  
+- 👀 I’m interested in software development
+- 🌱 I’m curently learning  back end development 
+- 🌱 I’m looking to collaborate on software development
+- 📫 How to reach me, linkedin:elias-teles-de-alcântara-4805b11ab/ 
 
 <!---
 Elias-Teles/Elias-Teles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
